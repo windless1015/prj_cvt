@@ -1,6 +1,8 @@
 # prj_cvt
-图像几何失真,用投影变换矫正图像
-图中的二维码因为拍摄的角度导致图像有较为严重的失真,直接扫描二维码并不能识别,所以需要进行投影变换,变换成规则的矩形,直接可以进行扫描
+
+The left image has distortion which can not be recognized by phone scan app. 
+Using project tranformation to correct image.
+After the operation, right image can be scaned
 
 ![](https://github.com/windless1015/prj_cvt/blob/master/img_correct.jpg?raw=true)
 
